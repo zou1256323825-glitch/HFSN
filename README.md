@@ -1,6 +1,6 @@
 # HFSN
 
-This is the code for HFSN, a deep-learning image watermarking / steganography network that is robust against a stack of differentiable noise layers (JPEG, blur, noise, crop, resize, etc.). The Encoder takes a cover image together with a random binary message and outputs a container image; the Decoder then recovers the message from the attacked container.
+This is the code for the work: "HFSN: A Hybrid Frequency-Spatial Network for Content-Adaptive Image Watermarking".
 
 ## To train the network
 
